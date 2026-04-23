@@ -1,0 +1,196 @@
+/*Sintaxe do CSS*/
+/*elemento {propriedade:valor}*/
+
+/*
+header{
+    background-color: red;
+    width: 100%;
+}
+main{
+    background-color: greenyellow;
+}
+footer{
+    background-color: blue;
+    width: 100%;
+}
+*/
+
+/* RESET CSS */
+/*
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+*/
+/*
+#main{
+    width: 90%;
+    margin-left: 5%;
+}
+/*
+footer{
+    width: 90%;
+    margin-left: 5%;
+    text-align: center;
+}
+*/
+body {
+    background-color: antiquewhite;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /*
+    background-image: url(../imagens/kaua.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    */
+}
+p{
+    width: 30%;
+    margin-left: 35%;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    background-color: white;
+    padding-left: 0px;
+    
+
+}
+h2 {
+    display: block;
+    color: white;
+    background-color: black;
+    background-size: contain;
+    font-size: 200%;
+    font-style: italic;
+    text-align: center;
+
+}
+
+#topo{
+    display: block;
+    background-color: aliceblue;
+    text-align: center;
+    width: 90%;
+    margin-left: 5%;
+    border-radius: 100px;
+}
+.logo{
+    margin: 0%;
+    width: 10%;
+    border-radius: 100px;
+}
+.li_nav{
+   
+    display: inline;
+    border-style: none;
+    border-color: white;
+    border-width: 1px;
+    border-radius: 10px;
+    padding: 5px;
+}
+.ol_nav{
+    text-align: center;
+    background-color: black;
+    height: 50px;
+    padding-top: 20px;
+}
+.a_nav{
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+}
+nav ol li :hover{
+    border-style: none;
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    border-radius: 10px;
+    border-bottom-style: solid;
+    font-weight: 900;
+}
+.ul_menu_delicioso{
+    width: 50%;
+    margin-left: 43%;
+    display: inline-block;
+}
+#menu_delicioso ul{
+    border-style: none;
+}
+#menu_delicioso ul li ul{
+    padding-right: 100px;
+}
+table { 
+    width: 21%;
+    margin-left: 38.90%;
+    display: inline-block;
+    background-size: 10%;
+    border-color: black;
+    border-style: none;
+}
+table td{
+    background-color: aquamarine;
+}
+table th{
+    background-color: cornflowerblue;
+}
+footer{
+    text-align: center;
+}
+#img_footer{
+    background-color: white;
+    width: 100%;
+    height: 100px;
+}
+#img_footer a{
+    display: inline;
+    margin: 20px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
