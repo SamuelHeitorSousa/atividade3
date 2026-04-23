@@ -39,7 +39,7 @@ body {
     background-color: antiquewhite;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     /*
-    background-image: url(../imagens/kaua.png);
+    background-image: url(../imagens/alvin.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     */
@@ -139,12 +139,16 @@ footer{
 #img_footer{
     background-color: white;
     width: 100%;
-    height: 100px;
+    height: 200px;
 }
-#img_footer a{
+#img_footer a img{
     display: inline;
     margin: 20px;
+    margin-top: 75px;
     
+}
+#img_footer a img:hover{
+    width: 100px;
 }
 
 
